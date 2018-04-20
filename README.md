@@ -1,2 +1,3 @@
 # auction
-realize the allocation of N tasks to N robots 
+realize an efficient allocation method in intelligent warehouse 
+auction-based algorithm
